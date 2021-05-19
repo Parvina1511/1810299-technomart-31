@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Парвина Бабаева](https://up.htmlacademy.ru/htmlcss/31/user/1810299).
-* Наставник: [Артур Трифонов] (https://htmlacademy.ru/profile/wrgraff)
+* Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff)
 
 ---
 
