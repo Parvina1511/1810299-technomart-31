@@ -161,12 +161,13 @@
  <section>
    <h2>Регистрация</h2>
    <form action="https://echo.htmlacademy.ru" method="POST">
-    <p><label for="imya"> Ваше имя: </label>
-    <input id="imya" type="text" name="имя" placeholder="Имя Фамилия">
-    <label for="email-kod">Ваш e-mail:</label>
-    <input id="email-kod" type="email" name="ema" placeholder="email@example.com"></p>
+    <p><label for="name"> Ваше имя: </label>
+    <input id="name" type="text" name="имя" placeholder="Имя Фамилия"> </p>
+   <p><label for="email-kod">Ваш e-mail:</label>
+    <input id="email-kod" type="email" name="ema" placeholder="email@example.com"> </p>
     <p>Текст письма:</p>
- <textarea rows="5" cols="40" name="text" placeholder="В свободной форме"> </textarea><br>
+    <label for="text">Текст письма:</label>
+  <textarea id="text" rows="5" cols="40" name="text" placeholder="В свободной форме"> </textarea> 
  <button type="submit">Отправить</button>
    </form>
  </section>
